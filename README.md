@@ -8,8 +8,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/GKJUWsumW6)
 </div>
 
-<a href="(https://spotify-github-profile.vercel.app/api/view?uid=kornnflex&redirect=true)"><img align=right alt="Spotify songs" src="https://spotify-github-profile.vercel.app/api/view?uid=kornnflex&cover_image=false&theme=default"></a>
-I'm <a href="https://touchevisual.dev/">Louis</a>, a graduated engineer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> France.
+<a href="(https://spotify-github-profile.vercel.app/api/view?uid=kornnflex&redirect=true)" target="_blank"><img align=right alt="Spotify songs" src="https://spotify-github-profile.vercel.app/api/view?uid=kornnflex&cover_image=false&theme=default"></a>
+I'm <a href="https://touchevisual.dev/" target="_blank">Louis</a>, a graduated engineer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> France.
 
 I like coding, exploring datasets and *The Lord of the Rings*.
 
