@@ -16,7 +16,7 @@ I like coding, exploring datasets and *The Lord of the Rings*.
 I am currently working at the Institut de Physique du Globe de Paris (IPGP) and on some side projects.
 <br><br>
 
-<h2 align="center">Tools I've interacted with 🖥️</h2>
+<h2 align="center">Tools I've used at some point 🖥️</h2>
 
 Here is a list (hypothetically exhaustive) of all  the technologies I've used for projects  
 
