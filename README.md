@@ -15,7 +15,6 @@ I like coding, exploring datasets and *The Lord of the Rings*.
 I am currently working at the Institut de Physique du Globe de Paris (IPGP) and on some side projects.
 
 <img alt="Kornflex" width=100 src="assets/kornflex.png">
-<br><br>
 
 <h2 align="center">Tools I've used at some point 🖥️</h2>
 
