@@ -65,8 +65,9 @@ Here is a list (hypothetically exhaustive) of all  the technologies I've used fo
 
 ![Metrics Calendar](assets/metrics.plugin.isocalendar.svg)
 
+<!---
 ![Metrics Habits](assets/metrics.plugin.habits.svg)
-
+--->
 
 ---
 <div align="center">
