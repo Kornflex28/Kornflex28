@@ -9,7 +9,7 @@ jobs:
     steps:
 
       - name: 📗 Classic template
-        uses: Kornflex28/metrics@latest
+        uses: Kornflex28/metrics@master
         with:
           filename: assets/metrics.base.svg
           user: Kornflex28
@@ -20,7 +20,7 @@ jobs:
           plugins_errors_fatal: ${{ github.repository == 'Kornflex28/Kornflex28' }}
         
       - name: 📅 Isocalendar plugin
-        uses: Kornflex28/metrics@latest
+        uses: Kornflex28/metrics@master
         with:
           filename: assets/metrics.plugin.isocalendar.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -30,7 +30,7 @@ jobs:
           plugins_errors_fatal: ${{ github.repository == 'Kornflex28/Kornflex28' }}
 
       - name: 📰 Activity plugin
-        uses: Kornflex28/metrics@latest
+        uses: Kornflex28/metrics@master
         with:
           filename: assets/metrics.plugin.activity.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -43,7 +43,7 @@ jobs:
           plugins_errors_fatal: ${{ github.repository == 'Kornflex28/Kornflex28' }}
 
       - name: 💡 Habits plugin
-        uses: Kornflex28/metrics@latest
+        uses: Kornflex28/metrics@master
         with:
           filename: assets/metrics.plugin.habits.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -57,7 +57,7 @@ jobs:
           config_timezone: Europe/Paris
 
       - name: 🈷️ Languages plugin (detailed)
-        uses: Kornflex28/metrics@latest
+        uses: Kornflex28/metrics@master
         with:
           filename: assets/metrics.plugin.languages.details.svg
           token: ${{ secrets.GH_TOKEN }}
