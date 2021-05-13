@@ -72,6 +72,6 @@ Here is a list (hypothetically exhaustive) of all  the technologies I've used fo
 ---
 <div align="center">
 
-![Ethereum 0xC4d1779E6062CaCd5c5417C1c2a40cBdC7C07081](https://img.shields.io/badge/Ethereum-0xC4d1779E6062CaCd5c5417C1c2a40cBdC7C07081-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white)
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0xC4d1779E6062CaCd5c5417C1c2a40cBdC7C07081)](https://en.cryptobadges.io/donate/0xC4d1779E6062CaCd5c5417C1c2a40cBdC7C07081)
 </div>
 
