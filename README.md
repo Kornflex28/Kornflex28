@@ -72,6 +72,6 @@ Here is a list (hypothetically exhaustive) of all  the technologies I've used fo
 ---
 <div align="center">
 
-![Bitcoin](https://img.shields.io/badge/Bitcoin-FFFFFF?style=flat-square&logo=bitcoin&logoColor=white) `34fBjY2UytjENjJyFupqs5o6qjoQQYuzcn`
+![Ethereum 0xC4d1779E6062CaCd5c5417C1c2a40cBdC7C07081](https://img.shields.io/badge/Ethereum-0xC4d1779E6062CaCd5c5417C1c2a40cBdC7C07081-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white)
 </div>
 
