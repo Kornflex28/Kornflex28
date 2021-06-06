@@ -939,17 +939,17 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="384.75446946915514" height="8" fill="#DA5B0B"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="384.4498634427032" height="8" fill="#DA5B0B"/>
         
-          <rect mask="url(#languages-bar)" x="384.75446946915514" y="0" width="47.3464402710088" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="384.4498634427032" y="0" width="47.67313371086336" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="432.10090974016396" y="0" width="23.550024025085403" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="432.1229971535666" y="0" width="23.531379721223185" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="455.65093376524936" y="0" width="4.079160100540236" height="8" fill="#c6538c"/>
+          <rect mask="url(#languages-bar)" x="455.65437687478976" y="0" width="4.075930672819225" height="8" fill="#c6538c"/>
         
-          <rect mask="url(#languages-bar)" x="459.7300938657896" y="0" width="0.23497117719997487" height="8" fill="#724b3b"/>
+          <rect mask="url(#languages-bar)" x="459.73030754760896" y="0" width="0.23478515301495018" height="8" fill="#724b3b"/>
         
-          <rect mask="url(#languages-bar)" x="459.9650650429896" y="0" width="0.034934957010432297" height="8" fill="#701516"/>
+          <rect mask="url(#languages-bar)" x="459.9650927006239" y="0" width="0.03490729937606121" height="8" fill="#701516"/>
         
       </svg>
       
@@ -964,7 +964,7 @@
                   </div>
                   <small>
                      <div>2.29 MB</div>
-                     <div>83.64%</div>
+                     <div>83.58%</div>
                   </small>
                 </div>
               
@@ -1000,8 +1000,8 @@
                     JavaScript
                   </div>
                   <small>
-                     <div>281 kB</div>
-                     <div>10.29%</div>
+                     <div>284 kB</div>
+                     <div>10.36%</div>
                   </small>
                 </div>
               
