@@ -951,7 +951,7 @@
               <li>Mostly push code around 03:00</li>
             
             
-              <li>Mostly active on monday</li>
+              <li>Mostly active on saturday</li>
             
           </ul>
         
@@ -1126,8 +1126,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">10</span>
-                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">5</span>
+                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Mon
               </div>
             
@@ -1144,8 +1144,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">5</span>
-                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">8</span>
+                <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Thu
               </div>
             
@@ -1156,8 +1156,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">8</span>
-                <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">10</span>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sat
               </div>
             
