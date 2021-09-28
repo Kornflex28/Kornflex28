@@ -9,8 +9,7 @@
 </div>
 
 <a href="https://spotify-github-profile-pi.vercel.app/api/view?uid=kornnflex&redirect=true" target="_blank"><img align=right alt="Spotify songs" src="https://spotify-github-profile-pi.vercel.app/api/view?uid=kornnflex&cover_image=false&theme=default"></a>
-I'm <a href="https://touchevisual.dev/" target="_blank">Louis</a>, a graduated engineer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> France.
-I like coding, exploring datasets and *The Lord of the Rings*.
+I'm <a href="https://touchevisual.dev/" target="_blank">Louis</a>, a French computer scientist. I like computer science.
 
 I am currently working at the Institut de Physique du Globe de Paris (IPGP) and on some side projects.
 
