@@ -5,7 +5,6 @@
 [![Linkedin: Louis Chauvet](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/louisc20171023/)](https://www.linkedin.com/in/louisc20171023/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chauvet.louis@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/Kornflex28)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/GKJUWsumW6)
 </div>
 
 <a href="https://spotify-github-profile-pi.vercel.app/api/view?uid=kornnflex&redirect=true" target="_blank"><img align=right alt="Spotify songs" src="https://spotify-github-profile-pi.vercel.app/api/view?uid=kornnflex&cover_image=false&theme=default"></a>
