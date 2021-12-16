@@ -939,19 +939,19 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="384.61810915129894" height="8" fill="#DA5B0B"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="379.8260848251891" height="8" fill="#DA5B0B"/>
         
-          <rect mask="url(#languages-bar)" x="384.61810915129894" y="0" width="47.35585221414168" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="379.8260848251891" y="0" width="46.68160835311881" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="431.97396136544063" y="0" width="23.541677692511247" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="426.50769317830793" y="0" width="23.248367810589976" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="455.5156390579519" y="0" width="4.077714410854906" height="8" fill="#c6538c"/>
+          <rect mask="url(#languages-bar)" x="449.7560609888979" y="0" width="5.950580696460889" height="8" fill="#e16737"/>
         
-          <rect mask="url(#languages-bar)" x="459.59335346880675" y="0" width="0.23488790137876286" height="8" fill="#724b3b"/>
+          <rect mask="url(#languages-bar)" x="455.70664168535876" y="0" width="4.026909453452189" height="8" fill="#c6538c"/>
         
-          <rect mask="url(#languages-bar)" x="459.82824137018554" y="0" width="0.13683605405553376" height="8" fill="#a91e50"/>
+          <rect mask="url(#languages-bar)" x="459.733551138811" y="0" width="0.23196139191252985" height="8" fill="#724b3b"/>
         
-          <rect mask="url(#languages-bar)" x="459.9650774242411" y="0" width="0.03492257575895831" height="8" fill="#701516"/>
+          <rect mask="url(#languages-bar)" x="459.96551253072346" y="0" width="0.034487469276487645" height="8" fill="#701516"/>
         
       </svg>
       
@@ -966,7 +966,7 @@
                   </div>
                   <small>
                      <div>2.29 MB</div>
-                     <div>83.61%</div>
+                     <div>82.57%</div>
                   </small>
                 </div>
               
@@ -977,18 +977,18 @@
                   </div>
                   <small>
                      <div>140 kB</div>
-                     <div>5.12%</div>
+                     <div>5.05%</div>
                   </small>
                 </div>
               
                 <div class="field language details">
                   <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#724b3b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                    Mustache
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                    SCSS
                   </div>
                   <small>
-                     <div>1.40 kB</div>
-                     <div>0.05%</div>
+                     <div>24.2 kB</div>
+                     <div>0.88%</div>
                   </small>
                 </div>
               
@@ -1013,30 +1013,30 @@
                     JavaScript
                   </div>
                   <small>
-                     <div>282 kB</div>
-                     <div>10.29%</div>
+                     <div>281 kB</div>
+                     <div>10.15%</div>
                   </small>
                 </div>
               
                 <div class="field language details">
                   <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                    SCSS
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e16737" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                    MATLAB
                   </div>
                   <small>
-                     <div>24.2 kB</div>
-                     <div>0.89%</div>
+                     <div>35.8 kB</div>
+                     <div>1.29%</div>
                   </small>
                 </div>
               
                 <div class="field language details">
                   <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#a91e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                    EJS
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#724b3b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                    Mustache
                   </div>
                   <small>
-                     <div>815 bytes</div>
-                     <div>0.03%</div>
+                     <div>1.40 kB</div>
+                     <div>0.05%</div>
                   </small>
                 </div>
               
