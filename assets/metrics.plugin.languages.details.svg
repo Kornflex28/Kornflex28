@@ -939,19 +939,19 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="372.4327140300331" height="8" fill="#DA5B0B"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="370.87811251001307" height="8" fill="#DA5B0B"/>
         
-          <rect mask="url(#languages-bar)" x="372.4327140300331" y="0" width="45.772943957339606" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="370.87811251001307" y="0" width="45.581879409110556" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="418.20565798737266" y="0" width="22.795834900205556" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="416.45999191912364" y="0" width="22.70068096165244" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="441.00149288757825" y="0" width="14.78871965098098" height="8" fill="#e16737"/>
+          <rect mask="url(#languages-bar)" x="439.1606728807761" y="0" width="16.647112072181653" height="8" fill="#e16737"/>
         
-          <rect mask="url(#languages-bar)" x="455.7902125385592" y="0" width="3.9485250666568654" height="8" fill="#c6538c"/>
+          <rect mask="url(#languages-bar)" x="455.8077849529577" y="0" width="3.932043208755503" height="8" fill="#c6538c"/>
         
-          <rect mask="url(#languages-bar)" x="459.73873760521604" y="0" width="0.22744622918651763" height="8" fill="#724b3b"/>
+          <rect mask="url(#languages-bar)" x="459.73982816171326" y="0" width="0.22649682748173708" height="8" fill="#724b3b"/>
         
-          <rect mask="url(#languages-bar)" x="459.9661838344026" y="0" width="0.033816165597423634" height="8" fill="#701516"/>
+          <rect mask="url(#languages-bar)" x="459.966324989195" y="0" width="0.03367501080500451" height="8" fill="#701516"/>
         
       </svg>
       
@@ -966,7 +966,7 @@
                   </div>
                   <small>
                      <div>2.29 MB</div>
-                     <div>80.96%</div>
+                     <div>80.63%</div>
                   </small>
                 </div>
               
@@ -977,7 +977,7 @@
                   </div>
                   <small>
                      <div>140 kB</div>
-                     <div>4.96%</div>
+                     <div>4.93%</div>
                   </small>
                 </div>
               
@@ -988,7 +988,7 @@
                   </div>
                   <small>
                      <div>24.2 kB</div>
-                     <div>0.86%</div>
+                     <div>0.85%</div>
                   </small>
                 </div>
               
@@ -1014,7 +1014,7 @@
                   </div>
                   <small>
                      <div>281 kB</div>
-                     <div>9.95%</div>
+                     <div>9.91%</div>
                   </small>
                 </div>
               
@@ -1024,8 +1024,8 @@
                     MATLAB
                   </div>
                   <small>
-                     <div>90.9 kB</div>
-                     <div>3.21%</div>
+                     <div>102 kB</div>
+                     <div>3.62%</div>
                   </small>
                 </div>
               
