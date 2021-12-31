@@ -951,7 +951,7 @@
               <li>Mostly push code around 02:00</li>
             
             
-              <li>Mostly active on sunday</li>
+              <li>Mostly active on thursday</li>
             
           </ul>
         
@@ -1038,8 +1038,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">8</span>
-              <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               12
             </div>
           
@@ -1080,8 +1080,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 5.357142857142857px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               19
             </div>
           
@@ -1120,14 +1120,14 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">11</span>
-                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">7</span>
+                <div class="bar" style="height: 31.818181818181817px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Sun
               </div>
             
               <div class="entry">
-                <span class="value">7</span>
-                <div class="bar" style="height: 31.818181818181817px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">8</span>
+                <div class="bar" style="height: 36.36363636363637px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Mon
               </div>
             
@@ -1138,8 +1138,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">5</span>
-                <div class="bar" style="height: 22.727272727272727px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                 Wed
               </div>
             
@@ -1150,8 +1150,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">1</span>
-                <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">4</span>
+                <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Fri
               </div>
             
@@ -1170,9 +1170,15 @@
           <div class="chart-bars horizontal">
             
               <div class="entry">
-                <span class="name">98286      MATLAB</span>
-                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                <span class="value">100%</span>
+                <span class="name">114929     MATLAB</span>
+                <div class="bar" style="width: 79.584%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">99%</span>
+              </div>
+            
+              <div class="entry">
+                <span class="name">606        Objective-C</span>
+                <div class="bar" style="width: 0.416%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">1%</span>
               </div>
             
           </div>
