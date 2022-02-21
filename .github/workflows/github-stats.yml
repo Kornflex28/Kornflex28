@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "42 0 */5 * *"}]
+  schedule: [{cron: "42 0 28 * *"}]
   push: {branches: ["master", "main"]}
   workflow_dispatch:
 jobs:
