@@ -68,8 +68,4 @@ Here is a list (hypothetically exhaustive) of all  the technologies I've used fo
 --->
 
 ---
-<div align="center">
-
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/small/0xC4d1779E6062CaCd5c5417C1c2a40cBdC7C07081)](https://en.cryptobadges.io/donate/0xC4d1779E6062CaCd5c5417C1c2a40cBdC7C07081)
-</div>
 
